@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
 , I'm Pranay Tandel</h1>
-<h3 align="center">< Full Stack Web Developer /></h3>
+<h3 align="center">< Java Backend Developer /></h3>
 
 <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" align="center"  />
 
