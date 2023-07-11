@@ -9,8 +9,11 @@
 <h3 align="center">A self-motivated, hard-working, and ambitious Web Developer with proficiency in Java, JavaScript, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration</h3><br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning Java AND MySQL.<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, and MySQL.<br><br>📫 How to reach me pranaytandel09@gmail.com<br><br>📄 Know about my experiences 1. https://flowcv.com/resume/m5c42pcb89<br>2. https://pranaytandel09.github.io/<br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranay-tandel-7270b7219/) 
+<h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/pranay-tandel-7270b7219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranaytandel09" height="30" width="40" /></a>
+<a href = '[https://github.com/pranaytandel09]'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://camo.githubusercontent.com/26647de33fe1227a701256ff1917a9d5ea2146c4aed4e8e8f011eee17fb14f78/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66642f61372f63302f66646137633031386462396130396666306564323334393537653962323562392e676966)
