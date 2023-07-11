@@ -1,7 +1,12 @@
- #  <br>Hi ![HTML5](https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif), I'm Pranay Tandel<br>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
+, I'm Niranjan Kumar</h1>
+<h3 align="center">< Full Stack Web Developer /></h3>
 
-![HTML5](https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif)
-A self-motivated, hard-working, and ambitious Web Developer with proficiency in Java, JavaScript, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration<br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning Java AND MySQL.<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, and MySQL.<br><br>📫 How to reach me pranaytandel09@gmail.com<br><br>📄 Know about my experiences 1. https://flowcv.com/resume/m5c42pcb89<br>2. https://pranaytandel09.github.io/<br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
+<img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" align="center"  />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kniranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="pranaytandel09" /> </p>
+
+<h3 align="center">A self-motivated, hard-working, and ambitious Web Developer with proficiency in Java, JavaScript, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration</h3><br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning Java AND MySQL.<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, and MySQL.<br><br>📫 How to reach me pranaytandel09@gmail.com<br><br>📄 Know about my experiences 1. https://flowcv.com/resume/m5c42pcb89<br>2. https://pranaytandel09.github.io/<br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
 
 
 ## 🌐 Socials:
