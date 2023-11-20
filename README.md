@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kniranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="pranaytandel09" /> </p>
 
-<h3 align="center">A self-motivated, hard-working, and ambitious Web Developer with proficiency in Java, JavaScript, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration</h3><br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning Java AND MySQL.<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, and MySQL.<br><br>📫 How to reach me pranaytandel09@gmail.com<br><br>📄 Know about my experiences 1. https://flowcv.com/resume/m5c42pcb89<br>2. https://pranaytandel09.github.io/<br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
+<h3 align="center">A self-motivated, hard-working, and ambitious Web Developer with proficiency in Java, JavaScript, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration</h3><br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning Java AND MySQL.<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, and MySQL.<br><br>📫 How to reach me pranaytandel09@gmail.com<br><br>📄 Know about my experiences <br> 1. https://flowcv.com/resume/m5c42pcb89<br>2. https://pranaytandel09.github.io/<br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
 
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
