@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kniranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="pranaytandel09" /> </p>
 
-<h3 align="center"> I’m currently working at Purpledocs as a Java Backend Developer.</h3><br><br>🌱 I’m currently learning Java AND MySQL.<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, and MySQL.<br><br>📫 How to reach me pranaytandel09@gmail.com<br><br>📄 Know about my experiences <br> 1. <a href="https://drive.google.com/file/d/1-TxPj303E35V_bFD-AXyITZQoGII0plF/view?usp=sharing" target="blank"> Resume</a> <br>2. <a href="https://pranaytandel09.github.io/" target="blank"> Portfolio</a> <br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
+<h3 align="center"> I’m currently working at PurpleDocs as a Java Backend Developer.</h3><br><br>🌱 I’m currently learning Java AND MySQL.<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, and MySQL.<br><br>📫 How to reach me pranaytandel09@gmail.com<br><br>📄 Know about my experiences <br> 1. <a href="https://drive.google.com/file/d/1-TxPj303E35V_bFD-AXyITZQoGII0plF/view?usp=sharing" target="blank"> Resume</a> <br>2. <a href="https://pranaytandel09.github.io/" target="blank"> Portfolio</a> <br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
 
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
